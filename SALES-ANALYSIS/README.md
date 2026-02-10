@@ -102,5 +102,7 @@ ANS: From the pivot table, one of the observable sales trends is the monthly sal
 
 5.	Provide one data-driven business recommendation.
 ANS: Given that March and June generate the highest revenue, while February, April and May show noticeable declines, management should analyze transactional drivers (product category performance, country contribution, and order volume (quantity)) during March and June to identify the exact factors responsible for revenue spikes such as higher order quantities, increased sales amounts. Organizations should also deploy targeted, data-backed promotions in low-revenue months (January, February, March and April) based on customer purchase behaviour and historical conversion rates. By grounding decisions in historical sales patterns and category-level performance data, the organization can optimize revenue consistency, reduce seasonal dips, and improve overall sales efficiency.
+<img width="1920" height="1080" alt="Screenshot 2026-02-10 200842" src="https://github.com/user-attachments/assets/99c7b57c-f25b-4130-acdb-39860795346e" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-10 200957" src="https://github.com/user-attachments/assets/264e76ef-751f-4877-a2f9-6203328df60c" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-08 134137" src="https://github.com/user-attachments/assets/3e188cc6-e5e6-4689-b3f4-e66750ce822e" />
 
-aker categories and sustain growth.
