@@ -1,20 +1,6 @@
-1.	Which product category generates the highest revenue?
-ANS: Product_10 generates the most revenue with a total revenue of $14, 731.52.
-
-2.	Which products are performing best/worst?
-ANS: The products that are doing worst are products_32 with total revenue of $598.05 and product_33 with total revenue of $874.23.
-
-3.	Which country/customers contribute the most to sales?
-ANS: The country that contributed the most to sales is UK with total sales amount of $86,879.59. The customers that contributed the most to sales are customer005 with total sales of $8064.34 and customer097 with total sales of $6805.47.
-
-4.	Identify one observable sales trend.
-ANS: From the pivot table, one of the observable sales trends is the monthly sales category. From the monthly revenue trend chart, revenue declines from January to February, then rises steadily to peak around March, before slightly dipping again towards April while rising again in June. March and June record the highest sales revenue within the period under review. Revenue declines from January to February, rises sharply to a peak in March, experiencing a drop in April and May, and then rebounds strongly in June. This pattern suggests periodic spikes in customer demand, possibly linked to promotional activities, seasonal buying behaviour, etc.
-
-5.	Provide one data-driven business recommendation.
-ANS: Given that March and June generate the highest revenue, while February, April and May show noticeable declines, management should analyze transactional drivers (product category performance, country contribution, and order volume (quantity)) during March and June to identify the exact factors responsible for revenue spikes such as higher order quantities, increased sales amounts. Organizations should also deploy targeted, data-backed promotions in low-revenue months (January, February, March and April) based on customer purchase behaviour and historical conversion rates. By grounding decisions in historical sales patterns and category-level performance data, the organization can optimize revenue consistency, reduce seasonal dips, and improve overall sales efficiency.
+**E-COMMERCE SALES ANALYSIS:**
 
 ANALYTICS REPORT
-CREATE A REPORT WITH THE FOLLOWING DETAILS OF YOUR ASSIGNMENT:
 1.	Executive Summary
 The analysis evaluates sales performance across product categories, countries and time periods. The objective is to identify key revenue drivers, performance gaps, and actionable opportunities for business growth. Overall, the business generated a total revenue of 249,314.65 from 1,080 units sold within the period under review. Performance varies significantly across categories, markets, and months, indicating opportunities for targeted optimization.
 
@@ -84,6 +70,7 @@ Focus on high revenue, low quantity products: these are likely premium products,
 
 7.	Dashboard Overview
 The sales performance dashboard provides a consolidated view of revenue, sales volume, and product performance across categories, countries, and time (monthly), with interactive filters for country, category, and order date to enable dynamic analysis.
+
 Key components covered
 •	Total revenue by category: This compares revenue contribution across product categories (beauty, clothing, electronics, home, sports). Electronics emerges as the highest revenue-generating category, while clothing contributes the least, highlighting differences in category performance.
 •	Revenue by country: This displays total revenue across key markets (US, UK, India, Canada). The UK records the highest revenue, followed by Canada and the US, indicating strong regional performance disparities.
@@ -93,5 +80,23 @@ Key components covered
 •	Sales distribution by category (Quantity): This shows how units sold are distributed across categories. Electronics records the highest quantity sold, while home has the lowest, reinforcing category-level demand patterns.
 Overall, the dashboard enables quick identification of top-performing categories, countries, products, and months, supporting data-driven decisions around inventory planning, market focus, and sales strategy.
 
-8.	Conclusion
-The dataset, pivot chart and dashboard support informed data-driven decision-making by identifying revenue drivers, demand patterns, and performance gaps. These insights can guide strategic actions such as optimizing product mix, strengthening high-performing markets, and implementing targeted promotions to improve weaker categories and sustain growth.
+9.	Conclusion
+The dataset, pivot chart and dashboard support informed data-driven decision-making by identifying revenue drivers, demand patterns, and performance gaps. These insights can guide strategic actions such as optimizing product mix, strengthening high-performing markets, and implementing targeted promotions to improve.
+
+QUESTIONS AND ANSWERS:
+1.	Which product category generates the highest revenue?
+ANS: Product_10 generates the most revenue with a total revenue of $14, 731.52.
+
+2.	Which products are performing best/worst?
+ANS: The products that are doing worst are products_32 with total revenue of $598.05 and product_33 with total revenue of $874.23.
+
+3.	Which country/customers contribute the most to sales?
+ANS: The country that contributed the most to sales is UK with total sales amount of $86,879.59. The customers that contributed the most to sales are customer005 with total sales of $8064.34 and customer097 with total sales of $6805.47.
+
+4.	Identify one observable sales trend.
+ANS: From the pivot table, one of the observable sales trends is the monthly sales category. From the monthly revenue trend chart, revenue declines from January to February, then rises steadily to peak around March, before slightly dipping again towards April while rising again in June. March and June record the highest sales revenue within the period under review. Revenue declines from January to February, rises sharply to a peak in March, experiencing a drop in April and May, and then rebounds strongly in June. This pattern suggests periodic spikes in customer demand, possibly linked to promotional activities, seasonal buying behaviour, etc.
+
+5.	Provide one data-driven business recommendation.
+ANS: Given that March and June generate the highest revenue, while February, April and May show noticeable declines, management should analyze transactional drivers (product category performance, country contribution, and order volume (quantity)) during March and June to identify the exact factors responsible for revenue spikes such as higher order quantities, increased sales amounts. Organizations should also deploy targeted, data-backed promotions in low-revenue months (January, February, March and April) based on customer purchase behaviour and historical conversion rates. By grounding decisions in historical sales patterns and category-level performance data, the organization can optimize revenue consistency, reduce seasonal dips, and improve overall sales efficiency.
+
+aker categories and sustain growth.
