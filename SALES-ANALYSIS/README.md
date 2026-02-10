@@ -1,20 +1,21 @@
 **E-COMMERCE SALES ANALYSIS:**
 
 ANALYTICS REPORT
-1.	Executive Summary
+1.	Executive Summary: 
 The analysis evaluates sales performance across product categories, countries and time periods. The objective is to identify key revenue drivers, performance gaps, and actionable opportunities for business growth. Overall, the business generated a total revenue of 249,314.65 from 1,080 units sold within the period under review. Performance varies significantly across categories, markets, and months, indicating opportunities for targeted optimization.
 
-2.	Data Overview
+2.	Data Overview: 
 the dataset used for this analysis captures transactional sales data across multiple product categories, countries, and time periods. it is structured to support performance evaluation, trend analysis, and strategic decision-making through summarized metrics and interactive filtering.  The data includes key variables such as order date (monthly), country, product category, product id, quantity sold, sales amount, and total revenue. These variables enable the analysis of sales performance from both volume (quantity) and value (revenue) perspectives.
 Sales transactions ae aggregated to provide insights at different levels:
 •	Category level: Showing total revenue and quantity sold for beauty, clothing, electronics, home, and sports.
 •	Country level: Highlighting revenue contributions from Canada, India, the UK, and the US.
 •	Time-based level: Summarizing monthly revenue trends from January to June.
 •	Product level: Identifying top-performing and underperforming products based on revenue.
-3.	Data Cleaning Steps
+
+4.	Data Cleaning Steps: 
 The first step I took while cleaning the dataset was to check for duplicates of which I did by clicking on remove duplicates on the data ribbon and all duplicates were removed. I also noticed that “United states” and “United Kingdom” were duplicated in the dataset with their short terms “US” and “UK” respectively. I replaced them using the short forms instead of which I did using the “find and replace” tool/command. On the find and replace tool, “I typed United States on the find what space and typed US on the replace space. I did same for UK”. After that, I formatted the dataset as table to aid in the pivot chart creation. It is imperative to format the dataset to table before creating a pivot chart.
 
-4.	Key Metrics/KPIs
+5.	Key Metrics/KPIs: 
 Based on the dataset and dashboard, the following key metrics and KPIs were used to measure sales performance, efficiency, and growth across categories, countries, products, and time periods.
 •	Total revenue: This is the total monetary value generated from sales. The total value of revenue was $249,314.65. It was used to measure overall business performance and revenue generation capability.
 •	Total quantity sold: This is the total number of units sold across all products. The total quantity was 1,080 units. It indicates sales volume and customer demand.
@@ -24,54 +25,57 @@ Based on the dataset and dashboard, the following key metrics and KPIs were used
 •	Revenue by country: This is the total revenue generated from each country. Its purpose is to evaluate market performance and geographic contribution to revenue
 •	Monthly revenue trend: This is the total revenue generated per month. Its purpose id to track seasonality and sales growth over time.
 
-5.	Data Analysis & Findings
+6.	Data Analysis & Findings: 
 From the pivot table, it is revealed thus:
-•	Overall sales performance
+•	Overall sales performance: 
 The analysis shows that the business generated a total revenue of $249,314.65 from 1,080 units sold during the period under review. This indicates a strong sales performance. However, revenue generation is uneven across categories, countries, and months, highlighting areas for strategic improvement.
-•	Revenue by category
+•	Revenue by category: 
 Sales performance varies significantly by product category. Electronics emerged as the top performing category, recording the highest revenue and quantity sold. This indicates strong customer demand and higher-value transactions within this category. Beauty and sports categories showed moderate performance, contributing meaningfully to total revenue but falling behind electronics. Clothing, despite recording reasonable sales volume, generated comparatively lower revenue. This suggests possible pricing inefficiencies, lower margins, or higher discounting within the category. 
 Findings: Revenue is not solely driven by volume; pricing and product value play a critical role in category performance. 
 
-•	Revenue by country
+•	Revenue by country: 
 From a geographic perspective, the UK is the highest revenue-generating country, followed by the US. This indicates strong market acceptance and purchasing power in these regions. Canada and India recorded lower revenue contributions, suggesting underpenetration or possible barriers such as pricing, customer preferences, or logistics challenges. It is found that revenue concentration in the UK and US presents growth opportunities but also highlights   the need for diversification.
 
-•	Monthly revenue trend
+•	Monthly revenue trend: 
 Analysis of monthly revenue trends reveals clear fluctuations over time. March and June recorded the highest sales, indicating peak demand periods. In contrast, February and May experienced relatively lower revenue. These variations suggest the influence of seasonality, promotional activities, or external market factors.
-Findings: Sales performance is cyclical, and low-performance is cyclical, and low-performing months present opportunities for targeting marketing and promotional interventions.
+Findings: 
+Sales performance is cyclical, and low-performance is cyclical, and low-performing months present opportunities for targeting marketing and promotional interventions.
 
-•	Product -level analysis
+•	Product -level analysis: 
 The product-level analysis shows that revenue is concentrated among a small number of products, with top products contributing a significant a significant share of total revenue. This reflects a Pareto distribution, where a few high-performing products drive overall sales.
-Findings: Business performance is highly dependent on a limited number of products, increasing the risk of revenue volatility if these products underperform.
+Findings: 
+Business performance is highly dependent on a limited number of products, increasing the risk of revenue volatility if these products underperform.
 
-•	Quantity and sales amount relationship
+•	Quantity and sales amount relationship: 
 The relationship between quantity sold and sales amount indicates that higher quantities do not always correspond to higher revenue. Certain order sizes generate significantly more revenue, implying the presence of premium-priced products or effective bundling. 
-Findings: Increasing order value, rather than volume alone, is a key level for revenue growth.  
+Findings: 
+Increasing order value, rather than volume alone, is a key level for revenue growth.  
 
-6.	Recommendations
-•	Category-level recommendations
+6.	Recommendations: 
+•	Category-level recommendations: 
 Electronics generates the highest revenue and quantity sold. Beauty and sports perform moderately. Clothing has relatively lower revenue despite decent quantity, suggesting lower pricing or margin.
 Prioritize electronics: Increase inventory availability to avoid stock-outs.
 Reprice or bundle clothing items: Review strategy to improve margins. It is also recommended to offer clothing bundles or cross-sell with beauty products.
 Boost beauty and sports through promotions: Seasonal promos and targeted ads can push these categories closer to the performance of electronics.
 
-•	Country-level recommendations
+•	Country-level recommendations: 
 Double down on the UK market: Allocate higher marketing spend and offer country-specific deals or faster delivery options.
 Optimize US performance: Identify top-performing categories in the US and scale them.
 Growth strategy for Canada and India: Run localized promotions or discount and assess whether pricing, shipping cost, or product mix is limiting performance.
 
-•	Monthly sales trend recommendation
+•	Monthly sales trend recommendation: 
 Replicate March and June success: Analyze campaigns, discounts, or product launches that occurred in these months. Stimulate pre-season promotions to smooth revenue fluctuations.
 Forecast-driven planning: Use historical trends to plan inventory and marketing budgets more efficiently.
 Insights: Total quantity sold is 1,080 units, while revenue distribution varies significantly by category. Some categories sell many units but generate less revenue.
 
-Recommendations
+Recommendations: 
 Improve average order value (AOV): Introduce volume discounts (buy more, save more).
 Focus on high revenue, low quantity products: these are likely premium products, they should be pushed through targeted marketing.
 
-7.	Dashboard Overview
+7.	Dashboard Overview: 
 The sales performance dashboard provides a consolidated view of revenue, sales volume, and product performance across categories, countries, and time (monthly), with interactive filters for country, category, and order date to enable dynamic analysis.
 
-Key components covered
+Key components covered: 
 •	Total revenue by category: This compares revenue contribution across product categories (beauty, clothing, electronics, home, sports). Electronics emerges as the highest revenue-generating category, while clothing contributes the least, highlighting differences in category performance.
 •	Revenue by country: This displays total revenue across key markets (US, UK, India, Canada). The UK records the highest revenue, followed by Canada and the US, indicating strong regional performance disparities.
 •	Monthly revenue: This shows revenue movement from January to June. Revenue fluctuates across the months, with noticeable peaks around March and June, suggesting possible seasonality or the impact of campaigns/promotions.
@@ -80,10 +84,10 @@ Key components covered
 •	Sales distribution by category (Quantity): This shows how units sold are distributed across categories. Electronics records the highest quantity sold, while home has the lowest, reinforcing category-level demand patterns.
 Overall, the dashboard enables quick identification of top-performing categories, countries, products, and months, supporting data-driven decisions around inventory planning, market focus, and sales strategy.
 
-9.	Conclusion
+9.	Conclusion: 
 The dataset, pivot chart and dashboard support informed data-driven decision-making by identifying revenue drivers, demand patterns, and performance gaps. These insights can guide strategic actions such as optimizing product mix, strengthening high-performing markets, and implementing targeted promotions to improve.
 
-QUESTIONS AND ANSWERS:
+QUESTIONS AND ANSWERS: 
 1.	Which product category generates the highest revenue?
 ANS: Product_10 generates the most revenue with a total revenue of $14, 731.52.
 
