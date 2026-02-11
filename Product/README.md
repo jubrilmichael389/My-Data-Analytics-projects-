@@ -1,5 +1,6 @@
 Project Overview: 
-This project analyzes product-level sales data to evaluate performance across categories, regions, and time. The aim is to uncover revenue drivers, underperforming items, and opportunities for business growth using data-driven insights.
+This project analyzes product-level sales data to evaluate performance across categories, regions, and time. 
+The aim is to uncover revenue drivers, underperforming items, and opportunities for business growth using data-driven insights.
 
 Objectives:
 Identify top and bottom performing products by revenue and quantity sold
