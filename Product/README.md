@@ -39,7 +39,6 @@ Review pricing or promotions for underperforming items.
 Optimize inventory levels by category and region.
 Introduce bundles or cross-selling strategies.
 <img width="1920" height="1080" alt="Screenshot 2026-02-11 110340" src="https://github.com/user-attachments/assets/b02eca48-67e9-4b7f-9485-d71d8ca19cf1" />
-<img width="1920" height="1080" alt="Screenshot 2026-02-11 110412" src="https://github.com/user-attachments/assets/fdbea77d-ebaf-471f-b058-a7df2a337d48" />
-<img width="1920" height="1080" alt="Screenshot 2026-02-11 110431" src="https://github.com/user-attachments/assets/e5297aea-db5c-4dc5-b2e0-a2816c17dbf8" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-02-11 165923" src="https://github.com/user-attachments/assets/b3496328-2bca-44a9-b73f-77377d9a7c0e" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-11 165730" src="https://github.com/user-attachments/assets/c7d56b88-cfab-41eb-bc89-22209a6a09bd" />
 
