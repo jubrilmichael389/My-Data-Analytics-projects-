@@ -105,4 +105,9 @@ ANS: Given that March and June generate the highest revenue, while February, Apr
 <img width="1920" height="1080" alt="Screenshot 2026-02-10 200842" src="https://github.com/user-attachments/assets/99c7b57c-f25b-4130-acdb-39860795346e" />
 <img width="1920" height="1080" alt="Screenshot 2026-02-10 200957" src="https://github.com/user-attachments/assets/264e76ef-751f-4877-a2f9-6203328df60c" />
 <img width="1920" height="1080" alt="Screenshot 2026-02-08 134137" src="https://github.com/user-attachments/assets/3e188cc6-e5e6-4689-b3f4-e66750ce822e" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 222146" src="https://github.com/user-attachments/assets/06588f88-699c-41cf-821c-3392cd52a29b" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 195607" src="https://github.com/user-attachments/assets/f574efbc-b482-4b45-8c56-f4c53c796b43" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 215529" src="https://github.com/user-attachments/assets/2c2fa2b0-1195-4e36-833a-1a3968a7f6bb" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 222048" src="https://github.com/user-attachments/assets/4c0f0871-681a-4398-81bb-3d8b8b884a36" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 222111" src="https://github.com/user-attachments/assets/6f3968d3-b262-4107-a2f0-cccad88265aa" />
 
