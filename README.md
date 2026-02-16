@@ -27,9 +27,11 @@ More projects may be added over time — check back for updates!
 1. *Clone the repository*  
    ```bash
    git clone https://github.com/jubrilmichael389/My-Data-Analytics-projects-.git
+
 2. Navigate to a project folder
 Example:
 cd SALES-ANALYSIS
+
 3. Explore the contents
 Each project folder typically includes:
 Raw / cleaned datasets (.csv, .xlsx)
@@ -38,11 +40,13 @@ Power BI files (.pbix)
 Excel workbooks with analysis
 Visual outputs (screenshots, exported reports)
 README inside the folder (project-specific details)
+
 📈 Highlights & Key Learnings
 Built interactive Power BI dashboards to track sales KPIs and identify growth opportunities
 Performed advanced SQL queries to uncover patterns in large datasets
 Used Excel for quick prototyping and stakeholder-friendly reports
 Focused on translating data into business recommendations
+
 📁 Folder Structure
 My-Data-Analytics-projects-/
 ├── Product/
@@ -60,14 +64,17 @@ My-Data-Analytics-projects-/
 │   ├── data/
 │   └── ...
 └── README.md          ← You are here
+
 🤝 Contributing
 This is a personal portfolio repository — contributions are not expected.
 However, feel free to fork it, use any code as inspiration, or reach out if you'd like to discuss data analytics topics!
+
 📬 Contact & Connect
 GitHub: @jubrilmichael389
 LinkedIn: (https://www.linkedin.com/in/jubrilmichael?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 Email: (jubrilmichael389@gmail.com)
 Looking forward to connecting with fellow data enthusiasts!
+
 ⭐ If you find any of these projects useful or inspiring, feel free to give this repo a star!
 Last updated: February 2026
 ### Customization Tips
