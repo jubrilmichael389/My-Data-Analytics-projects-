@@ -71,9 +71,9 @@ However, feel free to fork it, use any code as inspiration, or reach out if you'
 
 📬 Contact & Connect
 GitHub: @jubrilmichael389
-LinkedIn: (https://www.linkedin.com/in/jubrilmichael?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-Email: (jubrilmichael389@gmail.com)
-Looking forward to connecting with fellow data enthusiasts!
+1. LinkedIn: (https://www.linkedin.com/in/jubrilmichael?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+2. Email: (jubrilmichael389@gmail.com)
+3. Looking forward to connecting with fellow data enthusiasts!
 
 ⭐ If you find any of these projects useful or inspiring, feel free to give this repo a star!
 Last updated: February 2026
