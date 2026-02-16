@@ -49,21 +49,21 @@ Focused on translating data into business recommendations
 
 📁 Folder Structure
 My-Data-Analytics-projects-/
-├── Product/
-│   ├── datasets/
-│   ├── powerbi/
-│   ├── screenshots/
-│   └── README.md (project details)
-├── SALES(SODA)/
-│   ├── sql_queries/
-│   ├── excel_analysis/
-│   └── ...
-├── SALES-ANALYSIS/
-│   ├── pbix_files/
-│   ├── sql_scripts/
-│   ├── data/
-│   └── ...
-└── README.md          ← You are here
+Product/
+datasets/
+powerbi/
+screenshots/
+README.md (project details)
+
+SALES(SODA)/
+sql_queries/
+excel_analysis/
+
+SALES-ANALYSIS/
+pbix_files/
+sql_scripts/
+data/
+README.md          ← You are here
 
 🤝 Contributing
 This is a personal portfolio repository — contributions are not expected.
