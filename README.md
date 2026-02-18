@@ -77,4 +77,9 @@ GitHub: @jubrilmichael389
 
 ⭐ If you find any of these projects useful or inspiring, feel free to give this repo a star!
 Last updated: February 2026
-### Customization Tips
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-12 214853" src="https://github.com/user-attachments/assets/7bed4bac-3689-4c4b-ade2-914a4793fe67" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-11 165923" src="https://github.com/user-attachments/assets/c0eb3f75-70be-43aa-a551-0c5215930e9b" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-11 165730" src="https://github.com/user-attachments/assets/19fbb153-0baa-4396-ad38-5e51ff4adc8e" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-10 200428" src="https://github.com/user-attachments/assets/83072925-9ede-4a91-a10b-f03f6fdd67f1" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-10 200621" src="https://github.com/user-attachments/assets/b660b6d0-85f0-42af-9ed6-5914c64a4a28" />
